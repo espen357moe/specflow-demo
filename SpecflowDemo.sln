@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpecflowDemo", "SpecflowDemo\SpecflowDemo.csproj", "{5EFC8052-628E-45CB-870A-FC98B41A5869}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests.Spec", "Tests.Spec\Tests.Spec.csproj", "{ACFFA0A4-80DB-400C-8939-92466468865C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5EFC8052-628E-45CB-870A-FC98B41A5869}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EFC8052-628E-45CB-870A-FC98B41A5869}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EFC8052-628E-45CB-870A-FC98B41A5869}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EFC8052-628E-45CB-870A-FC98B41A5869}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACFFA0A4-80DB-400C-8939-92466468865C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACFFA0A4-80DB-400C-8939-92466468865C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACFFA0A4-80DB-400C-8939-92466468865C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACFFA0A4-80DB-400C-8939-92466468865C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F3F6704-6DFE-4983-89DF-C2D6FED1F29D}
+	EndGlobalSection
+EndGlobal
